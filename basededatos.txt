@@ -1,0 +1,27 @@
+{  
+  "proveedor": "Xcaret",
+  "Precio público Adulto": 2000,
+  "Precio público Menor": 1000,
+  "Nota": ""
+}
+
+{  
+  "proveedor": "ChichenItza",
+  "Precio público Adulto": 150,
+  "Precio público Menor": 75,
+  "Nota": ""
+}
+
+{  
+  "proveedor": "cenotes",
+  "Precio público Adulto": 500,
+  "Precio público Menor": 250,
+  "Nota": ""
+}
+
+{  
+  "proveedor": "Yucatán",
+  "Precio público Adulto": 4000,
+  "Precio público Menor": 2000,
+  "Nota": ""
+}
