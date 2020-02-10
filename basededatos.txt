@@ -1,27 +1,27 @@
 {  
-  "proveedor": "Xcaret",
-  "Precio público Adulto": 2000,
-  "Precio público Menor": 1000,
+  "proveedor": "Visita a las Grutas de Tolantongo, Hidalgo",
+  "PrecioAdulto": 2000,
+  "PrecioMenor": 1000,
   "Nota": ""
 }
 
 {  
-  "proveedor": "ChichenItza",
-  "Precio público Adulto": 150,
-  "Precio público Menor": 75,
+  "proveedor": "Caminata nocturna en Real del Monte",
+  "PrecioAdulto": 150,
+  "PrecioMenor": 75,
   "Nota": ""
 }
 
 {  
-  "proveedor": "cenotes",
-  "Precio público Adulto": 500,
-  "Precio público Menor": 250,
+  "proveedor": "Museo de los Duendes, Pachuca ",
+  "PrecioAdulto": 500,
+  "PrecioMenor": 250,
   "Nota": ""
 }
 
 {  
-  "proveedor": "Yucatán",
-  "Precio público Adulto": 4000,
-  "Precio público Menor": 2000,
+  "proveedor": "Tour del Tequila, Jalisco ",
+  "PrecioAdulto": 4000,
+  "PrecioMenor": 2000,
   "Nota": ""
 }
